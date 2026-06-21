@@ -1,5 +1,5 @@
 {
-  "version": "1.9.21",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.21/XepLaser-DuysOven.exe",
-  "notes": "Doi nhan thanh 'Mau xep thu cong'."
+  "version": "1.9.22",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.22/XepLaser-DuysOven.exe",
+  "notes": "Them thanh tien trinh o tren (ngay duoi header) de de quan sat khi xep."
 }
