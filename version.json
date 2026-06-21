@@ -1,5 +1,5 @@
 {
-  "version": "1.9.26",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.26/XepLaser-DuysOven.exe",
-  "notes": "Sua Kho ban ve: Xem/Dung doc duoc ban ve (luu file local), bo canh bao net ho sai, xoa nhan vien = an o may do (backup giu o may chu + Drive)."
+  "version": "1.9.27",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.27/XepLaser-DuysOven.exe",
+  "notes": "Viewer xem ban ve: sua ZOOM phong to + them thanh cong cu (phong to/nho, vua khit, phong vung, do khoang cach, di chuyen)."
 }
