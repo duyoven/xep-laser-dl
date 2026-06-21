@@ -1,5 +1,5 @@
 {
-  "version": "1.9.19",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.19/XepLaser-DuysOven.exe",
-  "notes": "Xep doc lap va don hang dung chung cai dat Ho/Bien. Bien mac dinh 3mm thong nhat moi noi."
+  "version": "1.9.20",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.20/XepLaser-DuysOven.exe",
+  "notes": "Doi 'Mau xep' -> 'Xep thu cong'. Them mo phong TACH PART khi xep don hang nhieu lo (xem app tach tung chi tiet)."
 }
