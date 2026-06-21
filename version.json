@@ -1,5 +1,5 @@
 {
-  "version": "1.9.23",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.23/XepLaser-DuysOven.exe",
-  "notes": "File xuat mo dung tam nhin AutoCAD (bat diem osnap), don vi mm, net cat=Continuous, net dut=layer HIDDEN."
+  "version": "1.9.25",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.25/XepLaser-DuysOven.exe",
+  "notes": "MOI: Kho ban ve (upload/phan tich/luu tung phien ban/dong bo/backup Drive) + Viewer xem ban ve kieu AutoCAD (nen den, crosshair, zoom/pan)."
 }
