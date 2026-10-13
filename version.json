@@ -1,5 +1,6 @@
 {
-  "version": "1.9.30",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.9.30/XepLaser-DuysOven.exe",
-  "notes": "Them mat khau MO APP (nhan vien tu dat) + xoa ban ve trong kho phai nhap mat khau xac nhan (am tham)."
+  "version": "1.10.0",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.0/XepLaser-DuysOven.exe",
+  "notes": "Thêm thẻ «🗂 Gom bản vẽ»: quét bản vẽ nằm rải rác, di chuyển (không xoá) vào một thư mục chia theo sản phẩm và tháng, có nút trả về chỗ cũ. Sửa lỗi đọc DWG, vé kích hoạt tự gia hạn, mật khẩu mở app an toàn hơn.",
+  "sha256": "e1eebebd6e33bc20428d8b4f40e604617f347aa213f5d1a249cdd07f391bde08"
 }
