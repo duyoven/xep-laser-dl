@@ -1,6 +1,6 @@
 {
-  "version": "1.10.1",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.1/XepLaser-DuysOven.exe",
-  "notes": "Thêm thẻ «🗂 Gom bản vẽ», sửa lỗi đọc DWG và lỗi tự cập nhật.\n\n⚠ Bản đang dùng KHÔNG tự cập nhật được (lỗi cũ, đã sửa từ 1.10.1). Bấm «No» để làm việc tiếp, rồi nhờ anh Duy chép bản mới một lần. Lỡ bấm «Yes» thì app sẽ tắt; mở lại là dùng tiếp được.",
-  "sha256": "113dd11163687e95b319a3aa1a72f6e14e9fc94bbada250ccb1fdd58ae192845"
+  "version": "1.10.2",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.2/XepLaser-DuysOven.exe",
+  "notes": "Giao diện mới cùng màu với web duyoven.vn: nền than đen, nút lửa cam, chữ Be Vietnam Pro. Chức năng giữ nguyên; nút 🌙/☀ vẫn đổi được nền sáng.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được (lỗi cũ, đã sửa từ 1.10.1). Bấm «No» để làm việc tiếp, rồi nhờ anh Duy chép bản mới một lần. Lỡ bấm «Yes» thì app sẽ tắt; mở lại là dùng tiếp được.",
+  "sha256": "ac3c60d293032e52467416f82704d656ddaeb098a8340f1fd7096fcf21e2ce1d"
 }
