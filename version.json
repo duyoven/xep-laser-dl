@@ -1,9 +1,9 @@
 {
-  "version": "1.10.4",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.4/XepLaser-DuysOven.exe",
-  "notes": "Tắt trợ lý AI: app không gọi AI nữa, cột bên phải thành khung «Nhật ký xếp» ghi từng bước xếp. Việc xếp tấm giữ nguyên. Có thêm bản cho máy Mac.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại. Máy đang 1.10.1/1.10.2 nếu hiện bảng lỗi «Failed to load Python DLL» thì bấm OK rồi mở lại app — bản mới đã vào.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
-  "sha256": "36239ade2736a39c7b42248ad2be489bc8efa480f77ef9f0232962618970f490",
-  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.4",
-  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.4/DuyNest-Pro-1.10.4-mac.zip",
-  "mac_sha256": "a93f51fae2e746da1e8d7d506c556c5b83978439aed0f39572d75255eb8690fd"
+  "version": "1.10.5",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.5/XepLaser-DuysOven.exe",
+  "notes": "Mới: nút «⚠ Báo xếp sai» trên thanh đầu app. Khi app xếp sai hoặc chưa vừa ý, hãy bấm nút này, ghi tên, tích lỗi, mô tả chỗ cần sửa rồi bấm «Gửi báo». App tự gửi kèm bản vẽ, thông số, kết quả và nhật ký về xưởng để sửa. Nếu mất mạng, app cất báo lại và tự gửi sau.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại. Máy đang 1.10.1/1.10.2 nếu hiện bảng lỗi «Failed to load Python DLL» thì bấm OK rồi mở lại app — bản mới đã vào.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
+  "sha256": "c028f162a498f4f64c47e9ac1a1af7a7afcf7d9b9d45ad1a52c32ece81cda12e",
+  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.5",
+  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.5/DuyNest-Pro-1.10.5-mac.zip",
+  "mac_sha256": "e6b805e2200f1443f4d6be9dde63bcfc8c75791c82415a98301e607e9fb53f71"
 }
