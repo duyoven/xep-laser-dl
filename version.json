@@ -1,9 +1,9 @@
 {
-  "version": "1.10.6",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.6/XepLaser-DuysOven.exe",
-  "notes": "Tính chi phí không cần xếp: chọn bản vẽ xong bấm «💰 Xem bảng chi phí» là có bảng ƯỚC TÍNH (mét cắt, điểm mồi, tôn theo tỷ lệ lấp đầy, làm tròn lên tấm nguyên). Đã xếp thì bảng dùng số tấm thật. Nút nằm riêng một dòng dưới bảng giá, cửa sổ nhỏ vẫn thấy. Có logo mới.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại. Máy đang 1.10.1/1.10.2 nếu hiện bảng lỗi «Failed to load Python DLL» thì bấm OK rồi mở lại app — bản mới đã vào.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
-  "sha256": "c906377e5b9d5adbdfb958b7c93a57bb118219301fb20eeafd97db02ddbe44f6",
-  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.6",
-  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.6/DuyNest-Pro-1.10.6-mac.zip",
-  "mac_sha256": "c3ba7149ad57069a862d8826686e41c97add53085705f1476cd8ed2c6f1413d6"
+  "version": "1.10.7",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.7/XepLaser-DuysOven.exe",
+  "notes": "Kho bản vẽ có thêm hai mục. «🧊 Bản vẽ 3D»: gửi tệp SolidWorks (.SLDPRT, .SLDASM), STEP, IGES, Inventor, Fusion lên kho chung, chia theo sản phẩm, máy khác tải về đúng nội dung (kiểm SHA-256) rồi mở bằng phần mềm. «🗂 Bản vẽ đã quét»: máy nào gom bản vẽ xong sẽ tự đẩy bản chính lên kho chung, kể cả các lần gom trước; máy khác (cả Mac) thấy theo sản phẩm, bấm ➕ Xếp để đưa thẳng vào tab Xếp hoặc 📦 Vào kho. Gửi và tải nhanh hơn trên các mạng bị bóp tốc độ.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại. Máy đang 1.10.1/1.10.2 nếu hiện bảng lỗi «Failed to load Python DLL» thì bấm OK rồi mở lại app — bản mới đã vào.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
+  "sha256": "5d70b74a9e2accf982d03fb89beaaee2dfb7c5d9cf67ab11e225fff0e8e97cd1",
+  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.7",
+  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.7/DuyNest-Pro-1.10.7-mac.zip",
+  "mac_sha256": "cd55e4e839776f1be499918a144482b8cc799642a682c1e93718e10245367292"
 }
