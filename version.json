@@ -1,9 +1,9 @@
 {
-  "version": "1.10.8",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.8/XepLaser-DuysOven.exe",
-  "notes": "Sửa nút «⬆ Upload bản vẽ» ở Kho bản vẽ: bản vẽ lớn phải đọc 20–60 giây nên trước đây bấm xong trông như không có gì xảy ra. Nay hiện khung «Đang đọc bản vẽ…» có thanh chạy cho tới khi hỏi tên để lưu, và nếu bản vẽ hỏng thì báo lỗi rõ thay vì im lặng.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
-  "sha256": "b29c2bec83e174f5189e92fd0fd191fcf04de47559eb7a80fe7d857e15cf6724",
-  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.8",
-  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.8/DuyNest-Pro-1.10.8-mac.zip",
-  "mac_sha256": "930311ec65d7a94dcf9c8ebdcc1ccc91fcaf250ea926715103dde2db2dd11ce8"
+  "version": "1.10.9",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.9/XepLaser-DuysOven.exe",
+  "notes": "Đọc bản vẽ nhanh gấp khoảng 3 lần: bản vẽ đã xếp nhiều tấm (vd 208 mảnh) từ 8–24 giây còn 3–8 giây. Kết quả số mảnh, loại tôn, cân nặng giữ y hệt. Upload bản vẽ vẫn có khung «Đang đọc bản vẽ…» cho tới khi hỏi tên.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
+  "sha256": "c377ec80d77d3be0e0980a454d7922ab6808b6b709f2a1f1b0c7015647a2838e",
+  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.9",
+  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.9/DuyNest-Pro-1.10.9-mac.zip",
+  "mac_sha256": "b667778ef5f295af2c5872c84809ccdb8aefd2f7f7d0f901101102495046e79c"
 }
