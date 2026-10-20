@@ -1,9 +1,9 @@
 {
-  "version": "1.10.10",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.10/XepLaser-DuysOven.exe",
-  "notes": "Bản mới có ba tính năng:\n• Tôn vụn: xếp xong, app tìm phần tôn còn dư (từ 300×300 mm) và hỏi có lưu vào kho không. Lần xếp sau, app xếp vào tôn vụn trước, phần đó không tính tiền tôn mới. Nút «🧩 Tôn vụn» mở kho để đánh dấu đã dùng, bỏ hoặc thêm tay.\n• Gom bản vẽ xong, app tự xếp sẵn theo từng sản phẩm/tháng và lưu phiên lên cloud.\n• Kho bản vẽ có nút «🔍 So với bản trước»: mảnh bỏ tô đỏ, mảnh thêm tô xanh, kèm bảng thay đổi theo loại tôn.\nSửa lỗi: bản vẽ đã có khung tấm vẽ sẵn giờ xếp đúng các chi tiết bên trong. Trước đây bản vẽ loại này ra 0 tấm, hoặc báo lấp đầy trên 100 %.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
-  "sha256": "2435059a08b2c959cf48378c8ea21b509a4db875af84e3c1d94cd8e8d5e556a0",
-  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.10",
-  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.10/DuyNest-Pro-1.10.10-mac.zip",
-  "mac_sha256": "ceec3eea081b0c778e63e880649e100e912534b4a77af39541b50bf359e72db0"
+  "version": "1.10.11",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.11/XepLaser-DuysOven.exe",
+  "notes": "Tối ưu đường cắt (tab Xếp, mặc định bật):\n• Nối các nét rời thành đường kín: số điểm mồi giảm khoảng 3 lần (vd 7.637 → 2.300 trên bản vẽ lò 65 + 125).\n• Mỗi chi tiết cắt lỗ trước, biên ngoài sau; chi tiết nối tiếp theo đường ngắn nhất: quãng chạy không ngắn đi khoảng 4,5 lần.\n• Chọn được góc máy bắt đầu cắt; tuỳ chọn «Cắt chung cạnh (khe = 0)», mặc định tắt.\n• Nhật ký và bảng chi phí ghi trước → sau: điểm mồi, quãng chạy không, mét cắt.\nLưu ý: muốn giữ thứ tự này, tắt tự sắp xếp trong phần mềm máy laser khi nạp file.\nMét cắt trong bảng chi phí nay tính đủ cả nét polyline nên có thể cao hơn bản cũ một chút (bản cũ bỏ sót).\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
+  "sha256": "3a10982a6cfb398fb41aa4c3a2f42c3ee01773ecb2dfbca699e4d2d331d8238d",
+  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.11",
+  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.11/DuyNest-Pro-1.10.11-mac.zip",
+  "mac_sha256": "6a845df4c352d561bc93541b6ea20c3248dca00b2535abd6b1c9795fce4c4963"
 }
