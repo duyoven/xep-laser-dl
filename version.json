@@ -1,9 +1,9 @@
 {
-  "version": "1.10.9",
-  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.9/XepLaser-DuysOven.exe",
-  "notes": "Đọc bản vẽ nhanh gấp khoảng 3 lần: bản vẽ đã xếp nhiều tấm (vd 208 mảnh) từ 8–24 giây còn 3–8 giây. Kết quả số mảnh, loại tôn, cân nặng giữ y hệt. Upload bản vẽ vẫn có khung «Đang đọc bản vẽ…» cho tới khi hỏi tên.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
-  "sha256": "c377ec80d77d3be0e0980a454d7922ab6808b6b709f2a1f1b0c7015647a2838e",
-  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.9",
-  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.9/DuyNest-Pro-1.10.9-mac.zip",
-  "mac_sha256": "b667778ef5f295af2c5872c84809ccdb8aefd2f7f7d0f901101102495046e79c"
+  "version": "1.10.10",
+  "url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.10/XepLaser-DuysOven.exe",
+  "notes": "Bản mới có ba tính năng:\n• Tôn vụn: xếp xong, app tìm phần tôn còn dư (từ 300×300 mm) và hỏi có lưu vào kho không. Lần xếp sau, app xếp vào tôn vụn trước, phần đó không tính tiền tôn mới. Nút «🧩 Tôn vụn» mở kho để đánh dấu đã dùng, bỏ hoặc thêm tay.\n• Gom bản vẽ xong, app tự xếp sẵn theo từng sản phẩm/tháng và lưu phiên lên cloud.\n• Kho bản vẽ có nút «🔍 So với bản trước»: mảnh bỏ tô đỏ, mảnh thêm tô xanh, kèm bảng thay đổi theo loại tôn.\nSửa lỗi: bản vẽ đã có khung tấm vẽ sẵn giờ xếp đúng các chi tiết bên trong. Trước đây bản vẽ loại này ra 0 tấm, hoặc báo lấp đầy trên 100 %.\n\nBấm «Yes»: app tải bản mới, tự thay rồi tự mở lại.\n\n⚠ Bản 1.10.0 trở về trước KHÔNG tự cập nhật được: bấm «No» rồi chép tay bản mới một lần.",
+  "sha256": "2435059a08b2c959cf48378c8ea21b509a4db875af84e3c1d94cd8e8d5e556a0",
+  "mac_page": "https://github.com/duyoven/xep-laser-dl/releases/tag/v1.10.10",
+  "mac_url": "https://github.com/duyoven/xep-laser-dl/releases/download/v1.10.10/DuyNest-Pro-1.10.10-mac.zip",
+  "mac_sha256": "ceec3eea081b0c778e63e880649e100e912534b4a77af39541b50bf359e72db0"
 }
